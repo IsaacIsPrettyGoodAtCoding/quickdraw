@@ -1,0 +1,12 @@
+body{background-color:rgb(127, 221, 255)} 
+
+#score{
+    font-size: medium;
+    float:right;
+    margin-right: 15px;
+
+}
+
+#sketchtobedrawn{
+    color:rgba(0, 0, 0, 0.257);
+}
